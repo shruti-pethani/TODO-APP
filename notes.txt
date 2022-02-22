@@ -1,0 +1,30 @@
+Website - set of web pages
+webapp -> which website we use anothe app it is calle webapp like google drive.
+
+client -> request send
+server -> responce give
+
+1) node --> http
+2) express
+
+
+we use in node MVC or MVVM architecture.
+
+there are two variable request and resonce.
+
+Rest API - rest is a protocol
+Rest client - Postman -> it is used for api testing.
+
+frontend -> server -> json/formdata/encoded
+backend -> frontend -> json
+
+table name: product
+url: products
+
+url                         Method            Operations
+
+\products                   post               insert
+\products                   GET                read-all
+\products\:productId        GET                read - single
+\products                   PUT                modify
+\products\:productId        DELETE             remove
